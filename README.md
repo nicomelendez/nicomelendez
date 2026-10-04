@@ -1,10 +1,10 @@
 # Hola, soy Nicolás 👋
 
-Trabajo en desarrollo de software y transformación digital.
+Soy Licenciado en Tecnologías de la Información y trabajo en Digital Impact en UNICEF Uruguay.
 
-Suelo trabajar con desarrollo web, automatización, IA, infraestructura e IoT, según lo que necesite cada proyecto.
+Trabajo principalmente con desarrollo de software, automatización y transformación digital, con experiencia también en infraestructura, IA, IoT y Power Platform.
 
-También me interesan la accesibilidad y el uso de tecnología en proyectos con impacto social.
+Me interesa especialmente el trabajo entre equipos: entender necesidades, escuchar distintas perspectivas y ayudar a convertirlas en soluciones digitales útiles.
 
 ## Tecnologías
 
@@ -12,4 +12,5 @@ TypeScript · Python · React · Astro · Node.js · PostgreSQL · Docker · Pow
 
 ## Links
 
-🌐 [nicomelendez.dev](https://nicomelendez.dev)
+🌐 [nicomelendez.com](https://www.nicomelendez.com/)  
+💼 [LinkedIn](https://www.linkedin.com/in/nicolas-melendez/)
